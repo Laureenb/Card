@@ -90,14 +90,6 @@ svg#curve {
   transition-delay: 0.04s;
 }
 
-.connection.github .icon {
-  height: 100%;
-  width: 100%;
-  background-image: url(../octocat-logo.png);
-  background-position: center;
-  background-size: cover;
-}
-
 .info {
   font-family: Inconsolata;
   padding-left: 20px;
